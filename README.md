@@ -1,7 +1,6 @@
 # SuperStore P3 
 
-# https://devwebcontainer.azurewebsites.net/
-##How this operates is that 
+## How this operates is that 
 
 ## How stakeholders are to use the report that i have created
 By definition, the Repository Design Pattern in C# mediates between the domain and the data mapping layers using a collection-like interface for accessing the domain objects. Repository Design Pattern separates the data access logic and maps it to the entities in the business logic
